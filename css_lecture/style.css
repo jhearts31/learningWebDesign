@@ -1,1 +1,38 @@
+ h1{
+    color:white; 
+    text-transform:uppercase; 
+    text-decoration:underline; 
+    text-align:center; 
+    }
 
+    h2{
+      text-transform:capitalize; 
+      background-color:white; 
+      padding:20px; 
+      text-align:center; 
+      border-style:dashed; 
+      border-width:5px; 
+      border-color:black; 
+      font-family:copperplate, fantasy;
+      box-shadow: -15px 20px 15px -3px rgba(0,0,0,0.1);
+    }
+    .mt{
+      margin:10px; 
+      background-color:green; 
+    }
+    .text-white{
+      color:white;
+    }
+
+    .no-background{
+      background-color:transparent; 
+    }
+
+    #p1{
+      margin:100px;
+      padding:20px; 
+      color:pink; 
+      font-family:tahoma; 
+      text-align:center; 
+      cursor:pointer; 
+    }
