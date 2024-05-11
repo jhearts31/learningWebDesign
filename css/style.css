@@ -1,1 +1,26 @@
+ h3{
+      
+      font-size:20px; 
+      color:green; 
+      text-decoration:underline; 
+      border-style:dashed; 
+      border-width: 3px; 
+      border-color:blue; 
+      border-left:3px solid pink;
+      border-right: 5px dotted purple;
+    }
+    .text{
+      color:brown; 
+      font-family:Joker; 
+    }
+
+    .text-capital{
+      text-transform:uppercase;
+    }
+
+    #p1{
+      margin:100px; 
+      background-color:black; 
+      color:white; 
+    }
 
